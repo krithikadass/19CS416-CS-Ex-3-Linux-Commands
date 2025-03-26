@@ -1,4 +1,4 @@
-# Cloud Security Lab 1: Linux Commands Study
+# CC-LAB-3-Linux Commands Study
 
 ## Introduction to Linux
 
